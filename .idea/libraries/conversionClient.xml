@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="conversionClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RMIConversion_Server/out/production/RMIConversion_Server/conversionClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
